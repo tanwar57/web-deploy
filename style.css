@@ -1,0 +1,167 @@
+*{
+	padding: 0px;
+	margin: 0px;
+
+}
+body{
+	
+}
+header{
+	background-image:url("images/ravi3.jpg");
+	height: 100px;
+	width: 100%;
+	margin-left: 0px;
+	margin-right: 0px;
+	border-bottom: 1px solid #133783;
+	background-repeat: no-repeat;
+}
+.header-block{
+	width: 100%;
+	margin:0 auto;
+	padding-top: 25px;
+	padding-left: 240px;
+}
+.facebook-login{
+	width: 50%;
+	float:right; 
+
+}
+.header-block label{
+	color: #fff;
+}
+.email{
+	float: left;
+}
+.email label{
+	padding-bottom: 10px;
+}
+.email input[type="text"]{
+	height: 20px;
+	width: 150px;
+	border-color: #000507;
+	border-radius: 5px;
+	
+}
+.password{ 
+	float: left;
+	margin-left: 15px;
+}
+.password input[type="password"]{
+	height:20px;
+	width: 150px;
+	border-color: #000507;
+	border-radius: 5px;
+}
+.password a{
+	color: #fbf8f8
+}
+.password label{
+	padding-bottom: 10px;
+}
+.login-button{
+	float: left; 
+	margin-top: 20px;
+	margin-left: 15px;
+
+}
+.login-button input[type="submit"]{
+	border-radius: 2px;
+	width: 55px;
+	height: 20px;
+}
+
+.abstruct{
+
+	margin-top: 5%;
+
+
+}
+.content-block{
+	padding-bottom: 20px;
+	margin-top: 1px;
+
+
+
+}
+
+.create-account h2{
+	font-size: 40px;
+	margin-right: 10%;
+	padding: 5px;
+	margin-top: 5px;
+
+	
+
+}
+.account input[type="text1"]{
+
+	
+	margin-bottom: 15px;
+	border-radius: 5px;
+	padding: 10px;
+	width: 155px;
+	margin-left: 10px;
+	border-color: #000507
+
+}
+.account input[type="text"]{
+
+	
+	margin-bottom: 15px;
+	border-radius: 5px;
+	padding: 10px;
+	width: 350px;
+	margin-left: 10px;
+	border-color: #000507
+
+}
+.account input[type="password"]{
+
+	
+	margin-bottom: 15px;
+	border-radius: 10px;
+	padding: 10px;
+	width: 350px;
+	margin-left: 10px;
+	border-color: #000507
+
+}
+.account input[type="submit"]{
+	padding:15px 22px;
+	background: #65a963;
+	border: 1px solid #3b6e22;
+	border-radius: 5px;
+	font-size: 25px;
+	font-color:#fff;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	margin-left: 10px;
+	
+
+}	
+.account input[type="radio"]{
+	height: 20px;
+	width: 20px;
+	margin-left: 10px;
+	padding-left: 5px;
+	margin-top: 10px;
+	margin-bottom:10;
+
+
+
+}
+.create-account h2{
+	
+	margin-left: 10px;
+	margin-bottom: 10px;
+
+}
+.content-block{
+	width: 30%;
+	float: right;
+
+}
+.account label{
+	margin-left: 5px;
+	margin-bottom:5px;
+}
